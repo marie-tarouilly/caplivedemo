@@ -1,2 +1,2 @@
-The quick fox jumped
-over the lazy frog
+The quick fox jumps
+over the lazy dog
